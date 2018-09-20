@@ -10,7 +10,7 @@ d = a.max()
 
 e = np.array([4,7,0,1])
 
-f = a+e
+f = a+e e
 
 
 
